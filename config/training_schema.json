@@ -1,0 +1,19 @@
+{
+	"SampleFileName": "insurance.csv",
+	"NumberofColumns": 7,
+	"ColName": {
+		"age": "INTEGER",
+		"sex": "STRING",
+		"bmi": "FLOAT",
+		"children": "INTEGER",
+		"smoker": "STRING",
+		"region": "STRING",
+		"expenses": "FLOAT"
+	},
+	"TargetColumn": "expenses",
+	"ProblemType": "Regression"
+}
+
+
+
+
